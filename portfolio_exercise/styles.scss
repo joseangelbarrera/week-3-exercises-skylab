@@ -1,0 +1,60 @@
+* {
+	border: 1px solid red;
+}
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    float: block;
+}
+
+h1 span {
+    color: #44627d;
+}
+
+h2 {
+    font-size: 22px;
+    text-align: left
+}
+
+p {
+    font-size: 16px;
+}
+
+.center {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    align: center;
+}
+
+.experience {
+    background-color: #dddddd;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.cover {
+    background-color: grey;
+    display: flex;
+    margin: 0 auto;
+    margin-botom: 0px;
+}
+
+footer .container {
+    background-color: #44627d;
+    padding: 0px;
+    color: white;
+    margin-botom: 0px;
+}
+
+.container {
+    background-color: white;
+}
+
+
